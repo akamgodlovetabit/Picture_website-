@@ -1,0 +1,500 @@
+{
+  "categories": [
+    {
+      "name": "Anime",
+      "images": [
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        }, {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        },
+        {
+          "name": "Anime Image ",
+          "url": ""
+        }
+
+      ]
+    },
+    {
+     "name": "Super villens",
+      "image": [
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },{
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        },
+        {
+          "name": "villen picture",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Cute figurines",
+      "images": [
+        {
+          "name": "Cute figurines Image 1",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image 2",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image 2",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image 2",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image 2",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image 2",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },
+        {
+          "name": "Cute figurines Image ",
+          "url": ""
+        },{
+          "name": "Cute figurines Image ",
+          "url": ""
+        }
+
+        ]
+    },
+    {
+      "name": "Super Heros":,
+      "images": [
+        {
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },{
+          "name": "Hero picture",
+          "url": ""
+        },
+        {
+          "name": "Hero picture",
+          "url": ""
+        }
+
+
+      ]
+    },
+    {
+      "name": "Samuria",
+      "images": [
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },{
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": "",
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        },
+        {
+          "name": "Samuria picture",
+          "url": ""
+        }
+
+      ]
+    }
+  ]
+}

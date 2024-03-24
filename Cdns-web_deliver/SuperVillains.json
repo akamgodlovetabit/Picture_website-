@@ -1,0 +1,25 @@
+{
+  "description": "Explore The Category Of Super Villains",
+  "contents": {
+    "images": [
+      {
+        "id": 1,
+        "name": "villain1",
+        "url": "phopicc/SuperVillains/1.jpg",
+        "description": "The most notorious super villain",
+        "tags": ["evil", "dark"]
+      }
+      // Add more images for Super Villains
+    ],
+    "videos": [
+      {
+        "id": 1,
+        "name": "villain_video1",
+        "url": "videopicc/SuperVillains/1.mp4",
+        "description": "The sinister plot of the super villain",
+        "tags": ["plot", "danger"]
+      }
+      // Add more videos for Super Villains
+    ]
+  }
+}

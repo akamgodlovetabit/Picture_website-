@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "creation_date": "2024-03-01",
+    "author": "Your Name",
+    "description": "JSON data containing images and videos of various anime categories"
+  },
+  "categories": {
+    "AnimeExplore": "AnimeExplore.json",
+    "Super Villains": "SuperVillains.json",
+    "Cute Figurines": "CuteFigurines.json",
+    // Add more categories here
+  }
+}
